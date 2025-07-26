@@ -1,5 +1,4 @@
 # Fungi
-🌿 Fungi – Indoor Air Quality Monitoring System (ESP32-Based)
 Fungi is a compact and powerful indoor air quality monitoring system developed using an ESP32, originally designed in the context of the COVID-19 pandemic to support occupancy control in enclosed spaces. It integrates multiple sensors and communication protocols to measure air quality and transmit data in real time, helping to assess the risk of airborne transmission and improve ventilation strategies.
 
 ⚙️ Features:
